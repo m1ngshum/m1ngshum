@@ -6,6 +6,7 @@ Building backend systems, cloud platforms, and developer tools.
 
 ## Selected projects
 
+- [mcpm](https://github.com/getmcpm/cli) — A security guard and package manager for MCP servers, with trust-scored installs and runtime protection.
 - [Cosmos Gov Signer](https://github.com/m1ngshum/cosmos-gov-signer) — Cosmos SDK governance signing with AWS KMS.
 - [NestJS Boilerplate](https://github.com/m1ngshum/nestjs-boilerplate) — A backend starter with Fastify, PostgreSQL, authentication, caching, and observability.
 - [Alert Lab](https://github.com/m1ngshum/alert-lab) — Evidence-based alert follow-up with an interactive playground, replay CLI, and shadow-mode service.
